@@ -1,38 +1,54 @@
-.App {
-  text-align: center;
+body{
+  background-color: whitesmoke;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.card-container{
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+  background-color: darkcyan;
+  width: 220px;
+  height: 300px;
+  margin:auto;
+  margin-top: 10vh;
+  box-shadow: 1px 4px 5px darkcyan;
+  border-radius: 15px;
+}
+.circle{
+  margin-top: 50px;
+  font-size: 30px;
+  background-color: rgb(13, 53, 228);
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 2px solid white;
+}
+.temperature{
+  text-align: center;
+  margin-top: 60px;
   color: white;
 }
-
-.App-link {
-  color: #61dafb;
+.btn-control{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 50px;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+button{
+  background-color: #333;
+  color: white;
+  margin-top: 30px;
+  width: 40px;
+  height: 40px;
+  font-size: 30px;
+  border-radius: 100%;
+  border: 2px solid white;
+}
+button:hover,
+button:visited{
+  background-color:grey ;
+}
+.hot{
+  background-color: red; 
+}
+.cold{
+  background-color: rgb(13, 53, 228);
 }
