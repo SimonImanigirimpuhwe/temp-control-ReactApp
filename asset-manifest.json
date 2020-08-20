@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.40a2442d.chunk.css",
-    "main.js": "/static/js/main.24bc95db.chunk.js",
-    "main.js.map": "/static/js/main.24bc95db.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.432eea27.js",
-    "runtime-main.js.map": "/static/js/runtime-main.432eea27.js.map",
-    "static/js/2.3d8eedea.chunk.js": "/static/js/2.3d8eedea.chunk.js",
-    "static/js/2.3d8eedea.chunk.js.map": "/static/js/2.3d8eedea.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.d6625330b5ef913dd252e7a4b4593431.js": "/precache-manifest.d6625330b5ef913dd252e7a4b4593431.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.40a2442d.chunk.css.map": "/static/css/main.40a2442d.chunk.css.map",
-    "static/js/2.3d8eedea.chunk.js.LICENSE.txt": "/static/js/2.3d8eedea.chunk.js.LICENSE.txt"
+    "main.css": "/SimonImanigirimpuhwe/temp-control-ReactApp.git/static/css/main.40a2442d.chunk.css",
+    "main.js": "/SimonImanigirimpuhwe/temp-control-ReactApp.git/static/js/main.a4609936.chunk.js",
+    "main.js.map": "/SimonImanigirimpuhwe/temp-control-ReactApp.git/static/js/main.a4609936.chunk.js.map",
+    "runtime-main.js": "/SimonImanigirimpuhwe/temp-control-ReactApp.git/static/js/runtime-main.ceb4b26f.js",
+    "runtime-main.js.map": "/SimonImanigirimpuhwe/temp-control-ReactApp.git/static/js/runtime-main.ceb4b26f.js.map",
+    "static/js/2.3d8eedea.chunk.js": "/SimonImanigirimpuhwe/temp-control-ReactApp.git/static/js/2.3d8eedea.chunk.js",
+    "static/js/2.3d8eedea.chunk.js.map": "/SimonImanigirimpuhwe/temp-control-ReactApp.git/static/js/2.3d8eedea.chunk.js.map",
+    "index.html": "/SimonImanigirimpuhwe/temp-control-ReactApp.git/index.html",
+    "precache-manifest.4ddaf4727ad5dac4813ff1f98bdf9e15.js": "/SimonImanigirimpuhwe/temp-control-ReactApp.git/precache-manifest.4ddaf4727ad5dac4813ff1f98bdf9e15.js",
+    "service-worker.js": "/SimonImanigirimpuhwe/temp-control-ReactApp.git/service-worker.js",
+    "static/css/main.40a2442d.chunk.css.map": "/SimonImanigirimpuhwe/temp-control-ReactApp.git/static/css/main.40a2442d.chunk.css.map",
+    "static/js/2.3d8eedea.chunk.js.LICENSE.txt": "/SimonImanigirimpuhwe/temp-control-ReactApp.git/static/js/2.3d8eedea.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.432eea27.js",
+    "static/js/runtime-main.ceb4b26f.js",
     "static/js/2.3d8eedea.chunk.js",
     "static/css/main.40a2442d.chunk.css",
-    "static/js/main.24bc95db.chunk.js"
+    "static/js/main.a4609936.chunk.js"
   ]
 }
